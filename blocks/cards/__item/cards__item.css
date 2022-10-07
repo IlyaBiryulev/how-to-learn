@@ -1,12 +1,14 @@
 .cards__item {
   width: 240px;
   justify-content: flex-start;
+  list-style-type: none;
+  margin: 0;
 }
 
 .cards__item:nth-child(2) {
-  margin: 0 100px 0;
+  padding: 0 100px 0;
 }
 
 .cards__item:nth-child(5) {
-  margin-left: 100px;
+  padding-left: 100px;
 }
