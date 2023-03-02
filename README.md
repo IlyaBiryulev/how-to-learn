@@ -19,4 +19,10 @@
   <li>Организована файловая структура по БЭМ</li>
 </ul>
 
+<h3>Клонирование репозитория</h3>
+
+```
+git clone https://github.com/IlyaBiryulev/mesto.git
+```
+
 <h3><a href="https://how-to-learn-orpin.vercel.app/">Ссылка на сайт</a></h3>
